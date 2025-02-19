@@ -12,7 +12,12 @@
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
     "express": "^4.21.2",
-    "mongodb": "^6.12.0"
+    "mongodb": "^6.12.0",
+    "sslcommerz-lts": "^1.1.0"
+  },
+  "devDependencies": {
+    "daisyui": "^4.12.23"
   }
 }
